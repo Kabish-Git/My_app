@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Travel App</string>
+
+    <!-- Destination 01: Bali -->
+    <string name="place_1">Bali</string>
+    <string name="plan_bali">7 days / 2 persons</string>
+    <string name="description_bali">Super saver pack with less than $10000</string>
+    <string name="title_activity_bali">BaliActivity</string>
+
+    <!-- Destination 02: Paris -->
+    <string name="place_2">Paris</string>
+    <string name="plan_paris">5 days / 2 persons</string>
+    <string name="description_paris">Romantic getaway under $12000</string>
+    <string name="title_activity_paris">ParisActivity</string>
+
+    <!-- Destination 03: Singapore -->
+    <string name="place_3">Singapore</string>
+    <string name="plan_singapore">4 days / 2 persons</string>
+    <string name="description_singapore">Family trip package under $8000</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+
+    <!-- Destination 04: New York -->
+    <string name="place_4">New York</string>
+    <string name="plan_new_york">6 days / 2 persons</string>
+    <string name="description_new_york">City explorer package under $15000</string>
+    <string name="title_activity_new_york">NewYorkActivity</string>
+
+    <!-- Destination 05: Mysore -->
+    <string name="place_5">Mysore</string>
+    <string name="plan_mysore">3 days / 2 persons</string>
+    <string name="description_mysore">Cultural tour under $2000</string>
+    <string name="title_activity_mysore">MysoreActivity</string>
+
+    <!-- Destination 06: Ooty -->
+    <string name="place_6">Ooty</string>
+    <string name="plan_ooty">3 days / 2 persons</string>
+    <string name="description_ooty">Nature retreat under $2500</string>
+    <string name="title_activity_ooty">OotyActivity</string>
+
+    <!-- Destination 07: Switzerland -->
+    <string name="place_7">Switzerland</string>
+    <string name="plan_switzerland">5 days / 2 persons</string>
+    <string name="description_switzerland">Luxury Swiss adventure under $20000</string>
+    <string name="title_activity_switzerland">SwitzerlandActivity</string>
+</resources>
